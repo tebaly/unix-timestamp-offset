@@ -1,0 +1,23 @@
+{
+  "name": "unix-timestamp-offset",
+  "version": "1.0.0",
+  "description": "Get Unix time exactly in seconds or offset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tebaly/unix-timestamp-offset.git"
+  },
+  "keywords": [
+    "timestamp",
+    "unix"
+  ],
+  "author": "tebaly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tebaly/unix-timestamp-offset/issues"
+  },
+  "homepage": "https://github.com/tebaly/unix-timestamp-offset#readme"
+}
