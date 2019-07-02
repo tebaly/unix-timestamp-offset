@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/tebaly/unix-timestamp-offset/compare/v1.0.3...v1.1.0) (2019-07-02)
+
+
+### Features
+
+* fix date now ([21a589f](https://github.com/tebaly/unix-timestamp-offset/commit/21a589f))
+
+
+
 ### [1.0.3](https://github.com/tebaly/unix-timestamp-offset/compare/v1.0.2...v1.0.3) (2019-07-02)
 
 
