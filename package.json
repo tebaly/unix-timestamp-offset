@@ -1,6 +1,6 @@
 {
   "name": "unix-timestamp-offset",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Get Unix time exactly in seconds or offset.",
   "main": "index.js",
   "scripts": {
